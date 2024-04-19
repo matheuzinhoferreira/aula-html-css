@@ -1,0 +1,172 @@
+header {
+    background-color: #0266bd;
+    text-align: center;
+    padding: 2em;
+}
+.s1 {
+    background-color: #cceafe;
+    padding: 0.6em;
+    text-align: center;
+}
+
+.b1:hover {
+    background-color: #7ab6fa;
+}
+.b1{
+    background-color: #180071;
+    color: white;
+    margin: 16;
+    width: 7em;
+    border-radius: 1em;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+}
+
+.s2 {
+    background-color: #c4e7f43c;
+    padding: 6em;
+    margin-top: 0;
+}
+
+
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 2em;
+    letter-spacing: 5px;
+}
+
+.b2 {
+    background-color: black;
+    color: white;
+    padding: 1em;
+    border-radius: 2em;
+    padding-left: 7em;
+    padding-right: 7em;
+    margin-left: 10cm;
+}
+
+.s3 {
+    padding: 4em;
+
+
+}
+
+.i1 {
+    width: 15em;
+    margin: 1.5cm;
+}
+.i1:hover{
+    background-color: #005caa;
+    left: 29px;
+    padding: 1em;   
+    margin: 2em; 
+    border-radius: 38px;
+}
+
+.noticia {
+    background-color: #4694ae3c;
+    background-color: ;
+    text-align: center;
+    font-weight: 700;
+    font-size: xx-large;
+    letter-spacing: 0.19em;
+    padding: 2em;
+}
+
+
+
+footer {
+    background-color: #0266bd;
+    text-align: center;
+    color: white;
+    margin-bottom: 2px #0266bd;
+    padding: 1em;
+}
+
+.p1 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.p2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    font-weight:500;
+    letter-spacing: 0.5em;
+
+}
+
+.senai {
+    width: 250px;
+    height: 75px;
+}
+.botao1 {
+    padding-bottom: 12;
+    text-align: center;
+}
+.bloco-noticia2 {
+    text-align: center;
+    padding: 10;
+}
+.tnoticia {
+    text-align: left;
+    padding-left: 27;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: -10px;
+    font-size: small;
+    letter-spacing: 2px;
+}
+.dnoticia {
+    text-align: left;
+    padding-left: 27;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: small;
+    padding: -60px;
+    letter-spacing: 3px;
+
+}
+.fundonoticia {
+    background-color: white;
+    border-radius: 38px;
+    width: 350px;
+    display: block;
+    margin: 70px auto;
+    padding: -90px;
+    box-shadow:5px 5px 5px grey;
+}
+.i2 {
+    width: 300px;
+    border-radius: 38px;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+    letter-spacing: 5px; 
+}
+
+.p7{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p6{
+   font-family: Arial, Helvetica, sans-serif; 
+   font-weight: bold;
+}
+
+.h6{
+    font-family: Arial, Helvetica, sans-serif;
+}
